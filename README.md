@@ -57,6 +57,6 @@ Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões par
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-Autor
-Demosthens Cavalcanti
+Autor<br>
+Demosthens Cavalcanti<br>
 https://www.linkedin.com/in/demosthens-cavalcanti-4a0b9627b/ | demosthenscf@gmail.com
